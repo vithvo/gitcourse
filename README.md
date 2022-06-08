@@ -1,2 +1,2 @@
 # gitcourse
-sone text
+some text
